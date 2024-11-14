@@ -1,19 +1,19 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+frontend:
+  label: 前端
+  permalink: /frontend
+  description: 包含但不限於 HTML, CSS, JavaScript, React, Next.js 等
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+backend:
+  label: 後端
+  permalink: /backend
+  description: 包含但不限於 Java, Node.js, Express 等
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+note:
+  label: 隨筆
+  permalink: /note
+  description: 如題
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+server:
+  label: 伺服器
+  permalink: /server
+  description: 包含但不限於 Linux, Nginx, Docker 等

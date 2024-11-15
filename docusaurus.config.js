@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'William Notes',
-  tagline: '為人父的軟體工程筆記',
+  tagline: '為人父的軟體工程師筆記',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -33,7 +33,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hant-TW',
-    locales: ['zh-Hant-TW'],
+    locales: ['zh-Hant-TW', 'en'],
   },
 
   presets: [
@@ -76,9 +76,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'WilliamNotes',
+        title: 'William Notes',
         logo: {
-          alt: 'WilliamNotes Logo',
+          alt: 'William Notes Logo',
           src: 'img/logo.svg',
         },
         items: [

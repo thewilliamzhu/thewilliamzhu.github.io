@@ -1,19 +1,14 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+front-end:
+  label: Front end
+  permalink: /front-end
+  description: 前端工程相關
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+back-end:
+  label: Back end
+  permalink: /back-end
+  description: 後端工程相關
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+note:
+  label: note
+  permalink: /note
+  description: 隨筆
